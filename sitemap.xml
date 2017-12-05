@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/post/hugo/</loc>
+    <lastmod>2017-12-05T19:07:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/java-reflect/</loc>
     <lastmod>2017-12-05T15:17:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,6 +18,20 @@
   
   <url>
     <loc>http://localhost:1313/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2017-12-05T19:07:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/hugo/</loc>
+    <lastmod>2017-12-05T19:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -31,21 +52,21 @@
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2017-12-05T15:17:28+08:00</lastmod>
+    <lastmod>2017-12-05T19:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2017-12-05T15:17:28+08:00</lastmod>
+    <lastmod>2017-12-05T19:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2017-12-05T15:17:28+08:00</lastmod>
+    <lastmod>2017-12-05T19:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
