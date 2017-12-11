@@ -17,7 +17,7 @@
       <pubDate>Tue, 05 Dec 2017 15:17:28 +0800</pubDate>
       
       <guid>http://localhost:1313/post/java-reflect/</guid>
-      <description>前言 今天介绍下Java的反射机制，以前我们获取一个类的实例都是使用new一个实例出来。那样太low了，今天跟我一起来学习学习一种更加高大上的</description>
+      <description>{{TOC}} 前言 今天介绍下Java的反射机制，以前我们获取一个类的实例都是使用new一个实例出来。那样太low了，今天跟我一起来学习学习一种更加高大上</description>
     </item>
     
   </channel>
