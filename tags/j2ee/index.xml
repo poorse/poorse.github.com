@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J2ee on Wolf Lead Gary&#39;s World</title>
-    <link>http://localhost:1313/tags/j2ee/</link>
+    <link>http://poorse.com/tags/j2ee/</link>
     <description>Recent content in J2ee on Wolf Lead Gary&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Dec 2017 15:15:09 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/j2ee/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://poorse.com/tags/j2ee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>多年后又搞起了J2EE</title>
-      <link>http://localhost:1313/post/j2ee-start/</link>
+      <link>http://poorse.com/post/j2ee-start/</link>
       <pubDate>Mon, 11 Dec 2017 15:15:09 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/j2ee-start/</guid>
+      <guid>http://poorse.com/post/j2ee-start/</guid>
       <description>多年后又搞起了J2ee 移动端火了几年，也富了好多公司。但是软件还得要落地到真正的价值点上去，价值回归吧。技术创业 技术选型 包含框架和组件 框架 S</description>
     </item>
     

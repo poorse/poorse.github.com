@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://poorse.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/post/j2ee-start/</loc>
+    <loc>http://poorse.com/post/j2ee-start/</loc>
     <lastmod>2017-12-11T15:15:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/hugo/</loc>
+    <loc>http://poorse.com/post/hugo/</loc>
     <lastmod>2017-12-05T19:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/java-reflect/</loc>
+    <loc>http://poorse.com/post/java-reflect/</loc>
     <lastmod>2017-12-05T15:17:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://poorse.com/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>http://poorse.com/tags/hugo/</loc>
     <lastmod>2017-12-05T19:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/hugo/</loc>
+    <loc>http://poorse.com/categories/hugo/</loc>
     <lastmod>2017-12-05T19:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/j2ee/</loc>
+    <loc>http://poorse.com/tags/j2ee/</loc>
     <lastmod>2017-12-11T15:15:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>http://poorse.com/tags/java/</loc>
     <lastmod>2017-12-11T15:15:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/java/</loc>
+    <loc>http://poorse.com/categories/java/</loc>
     <lastmod>2017-12-11T15:15:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://poorse.com/post/</loc>
     <lastmod>2017-12-11T15:15:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://poorse.com/tags/</loc>
     <lastmod>2017-12-05T19:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://poorse.com/</loc>
     <lastmod>2017-12-11T15:15:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/%E5%8F%8D%E5%B0%84/</loc>
+    <loc>http://poorse.com/tags/%E5%8F%8D%E5%B0%84/</loc>
     <lastmod>2017-12-05T15:17:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
