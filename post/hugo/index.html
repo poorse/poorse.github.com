@@ -70,7 +70,7 @@
 
 <meta itemprop="datePublished" content="2017-12-05T19:07:23&#43;08:00" />
 <meta itemprop="dateModified" content="2017-12-05T19:07:23&#43;08:00" />
-<meta itemprop="wordCount" content="34">
+<meta itemprop="wordCount" content="259">
 
 
 
@@ -157,9 +157,21 @@
 
     
     <div class="post-content">
-      <ol>
+      
+
+<ol>
 <li>记录一下hugo的使用历程</li>
 <li>想做一个hugo的前端管理程序，用Go预研</li>
+<li>自定义自己的主题</li>
+</ol>
+
+<h1 id="自定义自己的主题注意事项">自定义自己的主题注意事项</h1>
+
+<ol>
+<li>可以用主框架，名字为：baseof.html；用{{ block &ldquo;main&rdquo; . }}{{ end }}作为占位符，其他用{{ define &ldquo;main&rdquo; }}{{ end }}填充内容</li>
+<li>section是区分目录或者type的，找<SECTION>/list.html或者_default/section.html</li>
+<li>Taxonomy默认有tags和categories；内容列表找taxonomy.html，Taxonomy列表找terms.html</li>
+<li>用Template Debugging章节来打印所有数据，如：{{ printf &ldquo;%#v&rdquo; $.Site }}/{{ printf &ldquo;%#v&rdquo; . }}</li>
 </ol>
 
     </div>
