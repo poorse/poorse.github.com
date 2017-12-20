@@ -30,6 +30,13 @@
   </url>
   
   <url>
+    <loc>http://poorse.com/</loc>
+    <lastmod>2017-12-11T15:15:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://poorse.com/tags/hugo/</loc>
     <lastmod>2017-12-05T19:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -74,13 +81,6 @@
   <url>
     <loc>http://poorse.com/tags/</loc>
     <lastmod>2017-12-05T19:07:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://poorse.com/</loc>
-    <lastmod>2017-12-11T15:15:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
